@@ -1,3 +1,7 @@
+# THIS PACKAGE IS DEPRECATED!
+Package has been moved to deep-foundation. Use @deep-foundation/object-to-links-async-converter instead
+
+
 [![npm](https://img.shields.io/npm/v/@freephoenix888/object-to-links-async-converter.svg)](https://www.npmjs.com/package/@freephoenix888/object-to-links-async-converter)
 [![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/FreePhoenix888/object-to-links-async-converter)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
